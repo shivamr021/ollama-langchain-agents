@@ -1,0 +1,10 @@
+streamlit
+requests
+beautifulsoup4
+langchain
+langchain-community
+langchain-huggingface
+langchain-ollama
+faiss-cpu
+sentence-transformers
+numpy

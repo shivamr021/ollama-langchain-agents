@@ -1,0 +1,9 @@
+streamlit
+faiss-cpu
+PyPDF2
+langchain
+langchain-community
+langchain-core
+langchainhub
+langchain-text-splitters
+sentence-transformers

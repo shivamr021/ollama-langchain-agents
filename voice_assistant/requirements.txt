@@ -1,0 +1,8 @@
+streamlit
+speechrecognition
+pyttsx3
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+pyaudio
